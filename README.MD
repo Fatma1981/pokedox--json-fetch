@@ -6,4 +6,4 @@
 
 ### EKRAN GORUNTUSU
 
-![screen-gif](pokemongif.gif) # pokedox--json-fetch
+![screen-gif](pokemon.gif) # pokedox--json-fetch
